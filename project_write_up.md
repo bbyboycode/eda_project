@@ -20,6 +20,7 @@ The majority of the work done was completed using the Pandas package in Python.
   * The second issues was with a negative counter. The turnstile data is cumulative, so logically it would make sense that PREV_EXITS would be less than EXITS, however, this was not the case for some rows.
 ## Tools
 * SQLite3 for database creation
+* DB Browser for SQLite for filling in the database
 * SQLALchemy for SQL querying within the Jupyter environment
 * Pandas and Numpy for data manipulation and data cleaning
 * Matplotlib and Seaborn for data visualization
