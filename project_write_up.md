@@ -28,5 +28,7 @@ I found the top five busiest stations that I believe WTWY should place their str
 Originally the top five busiest stations around was supposed to be 34 St-Herald Sq, 42 St-Port Auth, 34 St-Penn Station, Grnd Cntrl-42nd st, and PATH New WTC, however, I decided to omit 34 St-Penn Station because it is too close in proximity to 34 St-Herald Sq, and I replaced it with W 4 St-Wash Sq
 
 ![image](https://github.com/guostan123/EDA_MTA_Project/blob/main/busiest_mta_stations_by_day.png)
+
 ![image](https://github.com/guostan123/EDA_MTA_Project/blob/main/busiest_mta_stations_by_day_line_graph.png)
+
 ![image](https://github.com/guostan123/EDA_MTA_Project/blob/main/busiest_mta_stations_by_day_heat.png)
